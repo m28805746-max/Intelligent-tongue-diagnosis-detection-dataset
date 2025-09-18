@@ -1,3 +1,5 @@
+# Intelligent-tongue-diagnosis-detection-dataset
+
 This dataset is an open-source dataset from the paper "Tongue Images Dataset for Diagnosis Detection Applied in Chinese Medicine", which has been iteratively updated to the third version.
 
 This dataset contains 21 disease categories that can be used for target detection in tongue diagnosis. The categories are jiankangshe (Healthy Tongue), botaishe (Tongue with peeling coating), hongshe (Red tongue), zishe (Purple tongue), pangdashe (Chubby tongue), shoushe (Thin tongue), hongdianshe (Red dot tongue), liewenshe (Cracked tongue), chihenshe (Dentate tongue), baitaishe (White coating tongue), huangtaishe (Yellow coating tongue), heitaishe (Black coating tongue), huataishe (Smooth coating tongue), shenquao (renal depression), shenqutu (renal protrusion), gandanao (Hepatobiliary depression), gandantu (Hepatobiliary protrusion), piweiao (spleen and stomach depression), xinfeiao (heart and lung depression), xinfeitu (heart and lung protrusion), corresponding numerical order is 0-19.
@@ -14,4 +16,4 @@ Extraction code: xh4d
 Extraction code: qv55
 
 And we also provide YOLOv11 code to validate the dataset.
-# Intelligent-tongue-diagnosis-detection-dataset
+
