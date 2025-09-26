@@ -1,6 +1,6 @@
 # Tongue detection
 
-# path
+# path  Modify according to your own path
 train: E:/YOLOv11/datasets/shezhen1/train/images
 val: E:/YOLOv11/datasets/shezhen1/val/images
 test: E:/YOLOv11/datasets/shezhen1/test
