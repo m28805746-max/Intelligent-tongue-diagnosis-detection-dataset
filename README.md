@@ -11,4 +11,5 @@ Extraction code: 2x32
 
 And we also provide YOLOv11 code to validate the dataset.
 The code format for "YOLO verification code" in this file is YAML file, which is applicable to YOLO series models. Create a new YAML file in the YOLO model, copy the code from the "YOLO verification code" file, and modify the path according to your computer configuration to use it. This document supports models such as YOLOv8/11/12
+
 The download address for the verification code is: https://github.com/ultralytics/ultralytics
