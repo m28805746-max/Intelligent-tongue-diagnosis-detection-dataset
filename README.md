@@ -6,14 +6,8 @@ This dataset contains 21 disease categories that can be used for target detectio
 
 Among them, there are 5594 images in the training set, 572 images in the validation set, and 553 images in the test set. Contains three annotation formats: coco/. txt/. xml, which can be used for experiments using relevant object detection algorithms through configuration files. The dataset is now shared through Baidu Cloud.
 
-(1)The dataset address for coco annotation format is: https://pan.baidu.com/s/1H2PYhz3ObAmXUHKu25TuDw
-Extraction code: b02g
-
-(2)The dataset address in. txt annotation format is: https://pan.baidu.com/s/1ioQgU6rQ0KNqHndPyURd3w
-Extraction code: xh4d
-
-(3)The dataset address in. xml annotation format is: https://pan.baidu.com/s/1NAgA5AiVI2Gt9zoBDxbiHg
-Extraction code: qv55
+The dataset address for coco annotation format is: https://pan.baidu.com/s/17f7Etg0LGSNTudkimg1TRg?pwd=2x32
+Extraction code: 2x32
 
 And we also provide YOLOv11 code to validate the dataset.
 The code format for "YOLO verification code" in this file is YAML file, which is applicable to YOLO series models. Create a new YAML file in the YOLO model, copy the code from the "YOLO verification code" file, and modify the path according to your computer configuration to use it. This document supports models such as YOLOv8/11/12
